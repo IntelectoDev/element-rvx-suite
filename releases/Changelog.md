@@ -1,7 +1,5 @@
 ### YouTube
-
-+ YouTube v19.44.37
-
++ YouTube-Extended: 19.16.39
+  
 ### YT Music
-
-+ YT Music v7.16.53
++ Music-Extended (arm64-v8a): 7.16.53

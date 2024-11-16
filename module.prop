@@ -1,0 +1,7 @@
+id=element-rvx-suite
+name=Element ReVanced Suite
+version=v1.0
+versionCode=1
+author=IntelectoDev
+description=Enhanced YouTube & YT Music with ReVanced Extended features and dynamic mounting. Requires Magisk Process Monitor v2.3+
+updateJson=https://raw.githubusercontent.com/Intelectodev/element-rvx-suite/master/releases/Update.json

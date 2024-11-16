@@ -1,0 +1,10 @@
+# config
+APP_NAME_YT=YouTube
+PKG_NAME_YT=com.google.android.youtube
+PKG_VER_YT=19.44.37
+
+APP_NAME_YTM="YT Music"
+PKG_NAME_YTM=com.google.android.apps.youtube.music
+PKG_VER_YTM=7.27.52
+
+MODULE_ARCH=
